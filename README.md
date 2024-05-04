@@ -3,11 +3,14 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+<h2> 📃 Certifications:</h2>
 
+  - ...
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [TUTORIAL: Active Directory Home Lab] https://www.youtube.com/watch?v=MHsI8hJmggI
+  - [TUTORIAL: Active Directory Home Lab] https://www.youtube.com/watch?v=MHsI8hJmggI
 
 <h2> 🤳 Connect with me:</h2>
 
